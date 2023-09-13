@@ -4,7 +4,7 @@ Submitted by: **Farouk Balogun**
 
 **Best-Selling-Books-App** is a simple android app to browse best selling books according to the New York Times.
 
-Time spent: **1** hours spent in total
+Time spent: **1** hour spent in total
 
 ## Required Features
 
